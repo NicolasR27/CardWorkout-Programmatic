@@ -60,12 +60,12 @@
 			children = (
 				3E3694E3243BF4180019D9C1 /* AppDelegate.swift */,
 				3E3694E5243BF4180019D9C1 /* SceneDelegate.swift */,
+				3E3694F9243BF7F30019D9C1 /* CWButton.swift */,
 				3E3694F7243BF5F40019D9C1 /* CardSelectionVC.swift */,
 				3E3694E9243BF4180019D9C1 /* Main.storyboard */,
 				3E3694EC243BF41F0019D9C1 /* Assets.xcassets */,
 				3E3694EE243BF41F0019D9C1 /* LaunchScreen.storyboard */,
 				3E3694F1243BF41F0019D9C1 /* Info.plist */,
-				3E3694F9243BF7F30019D9C1 /* CWButton.swift */,
 			);
 			path = "CardWorkout-Programmatic";
 			sourceTree = "<group>";
