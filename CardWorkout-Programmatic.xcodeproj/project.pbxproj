@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3E02A56B243E2EDC00B4F83B /* CardDeck.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E02A56A243E2EDC00B4F83B /* CardDeck.swift */; };
 		3E3694E4243BF4180019D9C1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E3694E3243BF4180019D9C1 /* AppDelegate.swift */; };
 		3E3694E6243BF4180019D9C1 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E3694E5243BF4180019D9C1 /* SceneDelegate.swift */; };
 		3E3694EB243BF4180019D9C1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3E3694E9243BF4180019D9C1 /* Main.storyboard */; };
@@ -14,9 +15,11 @@
 		3E3694F0243BF41F0019D9C1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3E3694EE243BF41F0019D9C1 /* LaunchScreen.storyboard */; };
 		3E3694F8243BF5F40019D9C1 /* CardSelectionVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E3694F7243BF5F40019D9C1 /* CardSelectionVC.swift */; };
 		3E3694FA243BF7F30019D9C1 /* CWButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E3694F9243BF7F30019D9C1 /* CWButton.swift */; };
+		3E80848D243DC0E900C07931 /* RulesVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E80848C243DC0E900C07931 /* RulesVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3E02A56A243E2EDC00B4F83B /* CardDeck.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardDeck.swift; sourceTree = "<group>"; };
 		3E3694E0243BF4180019D9C1 /* CardWorkout-Programmatic.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "CardWorkout-Programmatic.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3E3694E3243BF4180019D9C1 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3E3694E5243BF4180019D9C1 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -26,6 +29,7 @@
 		3E3694F1243BF41F0019D9C1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3E3694F7243BF5F40019D9C1 /* CardSelectionVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardSelectionVC.swift; sourceTree = "<group>"; };
 		3E3694F9243BF7F30019D9C1 /* CWButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CWButton.swift; sourceTree = "<group>"; };
+		3E80848C243DC0E900C07931 /* RulesVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RulesVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,7 +64,9 @@
 			children = (
 				3E3694E3243BF4180019D9C1 /* AppDelegate.swift */,
 				3E3694E5243BF4180019D9C1 /* SceneDelegate.swift */,
+				3E02A56A243E2EDC00B4F83B /* CardDeck.swift */,
 				3E3694F9243BF7F30019D9C1 /* CWButton.swift */,
+				3E80848C243DC0E900C07931 /* RulesVC.swift */,
 				3E3694F7243BF5F40019D9C1 /* CardSelectionVC.swift */,
 				3E3694E9243BF4180019D9C1 /* Main.storyboard */,
 				3E3694EC243BF41F0019D9C1 /* Assets.xcassets */,
@@ -141,7 +147,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3E02A56B243E2EDC00B4F83B /* CardDeck.swift in Sources */,
 				3E3694E4243BF4180019D9C1 /* AppDelegate.swift in Sources */,
+				3E80848D243DC0E900C07931 /* RulesVC.swift in Sources */,
 				3E3694E6243BF4180019D9C1 /* SceneDelegate.swift in Sources */,
 				3E3694F8243BF5F40019D9C1 /* CardSelectionVC.swift in Sources */,
 				3E3694FA243BF7F30019D9C1 /* CWButton.swift in Sources */,
