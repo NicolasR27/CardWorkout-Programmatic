@@ -1,10 +1,4 @@
-//
-//  CardDeck.swift
-//  CardWorkout-Programmatic
-//
-//  Created by Nicolas Rios on 4/8/20.
-//  Copyright © 2020 Nicolas Rios. All rights reserved.
-//
+
 
 import UIKit
 
