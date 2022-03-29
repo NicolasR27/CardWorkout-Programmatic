@@ -9,9 +9,7 @@ class RulesVC: UIViewController {
     let excerciseLabel = UILabel()
 
 
-    
-
-    override func viewDidLoad() {
+     override func viewDidLoad() {
         super.viewDidLoad()
         view.backgroundColor = .systemBackground
         configureTitleLabel()
